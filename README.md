@@ -12,7 +12,7 @@
 
 <p align="left">- 👩🏼‍💻 I'm currently working on my personal portfolio website and Aura Music Rating</p>
 
-<p align="left">- 🌱 I’m currently learning C++, and more about react and python</p>
+<p align="left">- 🌱 I’m currently learning C++ and more about react and python</p>
 
 <p align="left">- 📫 How to reach me robichauxbrock4@gmail.com</p>
 
