@@ -10,9 +10,9 @@
 
 <p><img src="https://user-images.githubusercontent.com/110707249/210004993-9a90671b-9c11-46a1-902c-da559fb885a0.gif" width="480" height="270" frameBorder="0"  align="center"></img></p>
 
-<p align="left">- 👩🏼‍💻 I'm currently working on my personal portfolio website</p>
+<p align="left">- 👩🏼‍💻 I'm currently working on my personal portfolio website and Aura Music Rating</p>
 
-<p align="left">- 🌱 I’m currently learning C++, Unreal Engine, and continuing to better my python skills</p>
+<p align="left">- 🌱 I’m currently learning C++, and more about react and python</p>
 
 <p align="left">- 📫 How to reach me robichauxbrock4@gmail.com</p>
 
