@@ -10,9 +10,9 @@
 
 <p><img src="https://user-images.githubusercontent.com/110707249/210004993-9a90671b-9c11-46a1-902c-da559fb885a0.gif" width="480" height="270" frameBorder="0"  align="center"></img></p>
 
-<p align="left">- 👩🏼‍💻 I'm currently working on my personal portfolio website and Aura Music Rating</p>
+<p align="left">- 👩🏼‍💻 I'm currently working on Aura Music Rating website</p>
 
-<p align="left">- 🌱 I’m currently learning C++ and more about react and python</p>
+<p align="left">- 🌱 I’m currently learning Elixir and continuing to strengthen my skills in the MERN stack, Python, and Java</p>
 
 <p align="left">- 📫 How to reach me robichauxbrock4@gmail.com</p>
 
@@ -101,7 +101,7 @@ src="https://camo.githubusercontent.com/631e6e82e01fe6311f99236702f5b7ff71002599
 </a></p><br />
   
 <ul align="left">
-<li>Languages [HTML, CSS, Javascript, Python, Java, C++]</li>
+<li>Languages [HTML, CSS, Javascript, Python, Java]</li>
 <li>Frameworks/Libraries [Express, React, Bootstrap, jQuery, Socket.io, Apache, Spring, npm, JUnit, JSON]</li>
 <li>Databases [MySQL, MongoDB]</li>
 <li>Version Control Systems [Git, GitHub]</li>
