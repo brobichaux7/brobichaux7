@@ -10,9 +10,9 @@
 
 <p><img src="https://user-images.githubusercontent.com/110707249/210004993-9a90671b-9c11-46a1-902c-da559fb885a0.gif" width="480" height="270" frameBorder="0"  align="center"></img></p>
 
-<p align="left">- 👩🏼‍💻 I'm currently working on Aura Music Rating website</p>
+<p align="left">- 👩🏼‍💻 I'm currently working with Interactive Software Solutions using Python, JavaScript, TypeScript ,React.tsx, and C#</p>
 
-<p align="left">- 🌱 I’m currently learning C#, Docker, and continuing to strengthen my skills in the MERN stack, Python, and Java</p>
+<p align="left">- 🌱 I’m currently learning C#, Docker, and Typescript</p>
 
 <p align="left">- 📫 How to reach me robichauxbrock4@gmail.com</p>
 
