@@ -12,7 +12,7 @@
 
 <p align="left">- 👩🏼‍💻 I'm currently working with Interactive Software Solutions using Python, JavaScript, TypeScript ,React.tsx, and C#</p>
 
-<p align="left">- 🌱 I’m currently learning C#, Docker, and Typescript</p>
+<p align="left">- 🌱 I’m currently learning C#, Typescript, MS SQL, and Docker</p>
 
 <p align="left">- 📫 How to reach me robichauxbrock4@gmail.com</p>
 
