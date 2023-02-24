@@ -118,7 +118,7 @@ src="https://camo.githubusercontent.com/631e6e82e01fe6311f99236702f5b7ff71002599
 
 <h1>Thank you for checking out my profile!</h1>
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=brockrobichaux&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![jojo-goodbye](https://user-images.githubusercontent.com/110707249/210013710-acd53a7e-f5e9-461e-8068-34292c1551ac.gif)<br />
 <h4>Visitor Count</h4>
