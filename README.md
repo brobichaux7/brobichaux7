@@ -10,7 +10,7 @@
 
 <p><img src="https://user-images.githubusercontent.com/110707249/210004993-9a90671b-9c11-46a1-902c-da559fb885a0.gif" width="480" height="270" frameBorder="0"  align="center"></img></p>
 
-<p align="left">- 👩🏼‍💻 I'm currently working with Interactive Software Solutions using Python, JavaScript, TypeScript ,React.tsx, and C#</p>
+<p align="left">- 👩🏼‍💻 I'm currently working with Interactive Software Solutions using Python, JavaScript, TypeScript, React.tsx, C#, and MS SQL</p>
 
 <p align="left">- 🌱 I’m currently learning C#, Typescript, MS SQL, and Docker</p>
 
