@@ -12,7 +12,7 @@
 
 <p align="left">- 👩🏼‍💻 I'm currently working on Aura Music Rating website</p>
 
-<p align="left">- 🌱 I’m currently learning C# continuing to strengthen my skills in the MERN stack, Python, and Java</p>
+<p align="left">- 🌱 I’m currently learning C#, Docker, and continuing to strengthen my skills in the MERN stack, Python, and Java</p>
 
 <p align="left">- 📫 How to reach me robichauxbrock4@gmail.com</p>
 
