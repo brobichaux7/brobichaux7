@@ -6,17 +6,17 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/brobichaux7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brobichaux7/" height="30" width="40" /></a>
 </p>
 
-<h4>I have a strong interest in back-end engineering, plan on diving deeper into video game engineering, and want to continue to learn new technologies to help me become a better programmer.</h4>
+<h4>I have a strong interest in back-end engineering, plan on diving deeper into video game engineering, and want to continue to learn new technologies to help me become a better programmer. I also enjoy working with React.js and learning the many different libraries connected with it.</h4>
 
 <p><img src="https://user-images.githubusercontent.com/110707249/210004993-9a90671b-9c11-46a1-902c-da559fb885a0.gif" width="480" height="270" frameBorder="0"  align="center"></img></p>
 
-<p align="left">- 👩🏼‍💻 I'm currently working with Interactive Software Solutions using Python, JavaScript, TypeScript, React.tsx, C#, and MS SQL</p>
+<p align="left">- 👩🏼‍💻 I'm currently working with Interactive Software Solutions using Python, JavaScript, React.js, C#, and PostgreSQL</p>
 
-<p align="left">- 🌱 I’m currently learning C#, Typescript, MS SQL, and Docker</p>
+<p align="left">- 🌱 I’m currently learning C#, MUIv5, PostgreSQL</p>
 
 <p align="left">- 📫 How to reach me robichauxbrock4@gmail.com</p>
 
-<p align="left">- ⚡ Fun fact I love video games, anime, traveling, and sports</p>
+<p align="left">- ⚡ Fun fact I love video games, anime, music, sports, and traveling</p>
 
 
 <h1>Languages and Tools:</h1>
