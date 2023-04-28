@@ -10,9 +10,9 @@
 
 <p><img src="https://user-images.githubusercontent.com/110707249/210004993-9a90671b-9c11-46a1-902c-da559fb885a0.gif" width="480" height="270" frameBorder="0"  align="center"></img></p>
 
-<p align="left">- 👩🏼‍💻 I'm currently working with Interactive Software Solutions using Python, JavaScript, React.js, C#, and PostgreSQL</p>
+<p align="left">- 👩🏼‍💻 I'm currently working with Interactive Software Solutions using JavaScript, React.js, C#, and SQL Server</p>
 
-<p align="left">- 🌱 I’m currently learning C#, MUIv5, PostgreSQL</p>
+<p align="left">- 🌱 I’m currently learning C#, SQL Server, and further advancing my React.js skills</p>
 
 <p align="left">- 📫 How to reach me robichauxbrock4@gmail.com</p>
 
@@ -28,7 +28,6 @@
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
@@ -45,9 +44,9 @@
 </p><br />
   
 <ul align="left">
-<li>Languages [HTML, CSS, Javascript, TypeScript, Python, Java, C#]</li>
+<li>Languages [HTML, CSS, Javascript, Python, Java, C#]</li>
 <li>Frameworks/Libraries [Express, React, Bootstrap, jQuery, Apache, Spring, npm, JUnit, JSON]</li>
-<li>Databases [MySQL, MS SQL, PostgreSQL, MongoDB]</li>
+<li>Databases [MySQL, MS SQL, PostgreSQL, MongoDB, SQL Server]</li>
 <li>Version Control Systems [Git, GitHub, Docker]</li>
 <li>Tools [Postman, Trello, Balsamiq, VSCode, Visual Studio, JSP]</li>
 <li>OS [Windows 10 & 11]</li>
