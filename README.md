@@ -52,7 +52,7 @@
 <li>Languages [HTML, CSS, Javascript, Python, Java, C#]</li>
 <li>Frameworks/Libraries [Express, React, Bootstrap, Material UI, jQuery, Apache, Spring, npm, JUnit, JSON]</li>
 <li>Databases [MySQL, PostgreSQL, MongoDB, SQL Server]</li>
-<li>Version Control Systems [Git, GitHub]</li>
+<li>Version Control Systems [Git, GitHub, Azure DevOps]</li>
 <li>Tools [Postman, Trello, Balsamiq, VSCode, Visual Studio, JSP]</li>
 <li>OS [Windows 10 & 11]</li>
 </ul><br />
