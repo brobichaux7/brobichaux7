@@ -12,7 +12,7 @@
 
 <p align="left">- 👩🏼‍💻 I'm currently working with Interactive Software Solutions using JavaScript, React.js, C#, and SQL Server</p>
 
-<p align="left">- 🌱 I’m currently learning C#, SQL Server, and further advancing my React.js skills</p>
+<p align="left">- 🌱 I’m currently learning C#, SQL Server, and further advancing my React.js and MaterialUI skills</p>
 
 <p align="left">- 📫 How to reach me robichauxbrock4@gmail.com</p>
 
