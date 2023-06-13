@@ -6,13 +6,13 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/brobichaux7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brobichaux7/" height="30" width="40" /></a>
 </p>
 
-<h4>I have a strong interest in back-end engineering, plan on diving deeper into video game engineering, and want to continue to learn new technologies to help me become a better programmer. I also enjoy working with React.js and learning the many different libraries connected with it.</h4>
+<h4>I have a strong interest in full-stack engineering, plan on learning more about video game engineering, and want to continue to learn new technologies to help me become a better programmer. I also enjoy working with React.js, and learning the many different libraries/frameworks connected with it.</h4>
 
 <p><img src="https://user-images.githubusercontent.com/110707249/210004993-9a90671b-9c11-46a1-902c-da559fb885a0.gif" width="480" height="270" frameBorder="0"  align="center"></img></p>
 
-<p align="left">- 👩🏼‍💻 I'm currently working with Interactive Software Solutions using JavaScript, React.js, C#, and SQL Server</p>
+<p align="left">- 👩🏼‍💻 I'm currently working with Interactive Software Solutions using JavaScript, React.js, C#, .NET, SQL Server, and Azure</p>
 
-<p align="left">- 🌱 I’m currently learning C#, SQL Server, and further advancing my React.js and MaterialUI skills</p>
+<p align="left">- 🌱 I’m currently learning C#, .NET, SQL Server, Azure, and further advancing my React.js and Material UI skills</p>
 
 <p align="left">- 📫 How to reach me robichauxbrock4@gmail.com</p>
 
@@ -23,7 +23,10 @@
 <h4></h4>
 <img src="https://user-images.githubusercontent.com/110707249/210012371-1b9d9d74-47db-4555-8cb0-766b84a83a15.gif" alt="typing" /><br /><br />
 <p align="center">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -42,13 +45,14 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p><br />
   
 <ul align="left">
 <li>Languages [HTML, CSS, Javascript, Python, Java, C#]</li>
-<li>Frameworks/Libraries [Express, React, Bootstrap, jQuery, Apache, Spring, npm, JUnit, JSON]</li>
-<li>Databases [MySQL, MS SQL, PostgreSQL, MongoDB, SQL Server]</li>
-<li>Version Control Systems [Git, GitHub, Docker]</li>
+<li>Frameworks/Libraries [Express, React, Bootstrap, Material UI, jQuery, Apache, Spring, npm, JUnit, JSON]</li>
+<li>Databases [MySQL, PostgreSQL, MongoDB, SQL Server]</li>
+<li>Version Control Systems [Git, GitHub]</li>
 <li>Tools [Postman, Trello, Balsamiq, VSCode, Visual Studio, JSP]</li>
 <li>OS [Windows 10 & 11]</li>
 </ul><br />
