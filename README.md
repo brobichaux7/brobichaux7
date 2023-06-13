@@ -16,7 +16,7 @@
 
 <p align="left">- 📫 How to reach me robichauxbrock4@gmail.com</p>
 
-<p align="left">- ⚡ Fun fact I love video games, anime, music, sports, and traveling</p>
+<p align="left">- ⚡ Fun fact I love video games, anime, music, watching and playing sports, and traveling</p>
 
 
 <h1>Languages and Tools:</h1>
